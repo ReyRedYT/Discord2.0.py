@@ -144,4 +144,4 @@ async def on_message(message):
             else:
                 await message.channel.send(f'Kein User mit dem Namen {args[1]} gefunden.')
 
-client.run('ODg4NzU2NTkzMzQzMjA1NDM3.YUXVFA.0vzmdJOuMSYgwZpYBC7WOdV8n6Y')
+client.run('YourBotToken')
